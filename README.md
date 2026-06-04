@@ -1,7 +1,5 @@
-Affirmations App - Intermediate Code
+Affirmations App - Kesyfi Anand - 452024611013 
 ================================
-
-Intermediate code for the Android Basics with Compose: Affirmations app.
 
 
 Introduction
@@ -24,3 +22,5 @@ Getting Started
 4. Build and run the sample.
 
 All photos by Romain Guy. All photos are licensed under CC0 https://creativecommons.org/share-your-work/public-domain/cc0/
+
+Link for demo video : https://drive.google.com/file/d/1vsWJM5f09QVikITnFZHb0fR48e4yawlv/view?usp=sharing
